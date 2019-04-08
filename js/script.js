@@ -4,7 +4,18 @@
 /* global $ */
 
 $("#search-button").click(function(){
-  
+  $("#q2").click(function() { 
+    $.ajax({
+        url: custom_api_url,
+        method: "GET",
+        success: function(response) {
+            // YOUR CODE GOES HERE
+      
+
+        }   
+    }); 
+    
+});
   
   
 });
