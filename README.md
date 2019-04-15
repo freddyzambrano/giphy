@@ -30,7 +30,7 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [ ] Display the image to the screen 
 
 ### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 
 ## Day 3
@@ -42,6 +42,6 @@ Make sure to check off your items as you complete them. [ ] => [x]
     - Make the gif pop out in a modal when clicked on.
 
 ### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 
